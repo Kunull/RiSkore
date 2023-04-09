@@ -1,8 +1,5 @@
-<h1>Risk Calculator</h1>
-
+# Risk Calculator
 An OWASP risk calculator clone
-<br>
-<br>
 
-<h2>Live Preview</h2>
+# Live Preview
 https://kunalwalavalkar.github.io/Risk-Calculator/
