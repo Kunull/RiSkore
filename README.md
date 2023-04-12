@@ -1,5 +1,5 @@
 # Risk Calculator
 An OWASP risk calculator clone
 
-# Live Preview
+# Live
 https://kunalwalavalkar.github.io/Risk-Calculator/
