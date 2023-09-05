@@ -1,4 +1,4 @@
-# Risk Calculator
+# RiSkore
 An OWASP risk calculator clone
 
 ## Live
