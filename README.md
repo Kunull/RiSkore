@@ -28,10 +28,10 @@ https://kunalwalavalkar.github.io/RiSkore/
 
 ## Screenshots
 ### Graphical Interface:
-![1](https://github.com/Knign/RiSkore/assets/110326359/e5b4408b-6948-476b-bd2c-8c1e15f84799)
+![1](https://github.com/Knign/RiSkore/assets/110326359/b6769655-83f6-441a-8823-7ce9e9586d1d)
 
-### Selecting the threat agent factors:
-![2](https://github.com/Knign/RiSkore/assets/110326359/fa0d0042-ccd7-40b9-9b7f-db95d2cb7c6b)
+### Selecting the factors:
+![2](https://github.com/Knign/RiSkore/assets/110326359/82eb1d61-c507-4d14-9e77-772e897d78a5)
 
 ### Overall Risk Score:
-![3](https://github.com/Knign/RiSkore/assets/110326359/ea1539ba-1c54-4a98-b54a-32553d2cba70)
+![3](https://github.com/Knign/RiSkore/assets/110326359/daa87896-c972-4320-92e4-a205d4bad084)
