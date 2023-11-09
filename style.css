@@ -249,7 +249,7 @@ a {
 
 @font-face {
 	font-family: 'VCR';
-	src: url('./assets/fonts/VCROSDMono.woff') format('woff');
+	src: url('./VCROSDMono.woff') format('woff');
 }
 
 /* @media only screen and (max-width: 1500px) {
