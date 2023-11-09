@@ -1,6 +1,28 @@
 # RiSkore
 Estimate the risk faced by your organization based on various factors.
 
+## Factors taken into account
+- Threat agent factors
+  - Skill level
+  - Motive
+  - Opportunity
+  - Size
+- Vulnerability factors
+  - Ease of discovery
+  - Ease of exploit
+  - Awareness
+  - Intrusion Detection
+- Technical impact factors
+  - Loss of confidentiality
+  - Loss of integrity
+  - Loss of availability
+  - Loss of accountability
+- Business impact factors
+  - Financial damage
+  - Reputation damage
+  - Non-compliance
+  - Privacy violation
+
 ## Screenshots
 ### Graphical Interface:
 ![1](https://github.com/Knign/RiSkore/assets/110326359/e5b4408b-6948-476b-bd2c-8c1e15f84799)
