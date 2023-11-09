@@ -1,6 +1,9 @@
 # RiSkore
 Estimate the risk faced by your organization based on various factors.
 
+## Live
+https://kunalwalavalkar.github.io/RiSkore/
+
 ## Factors taken into account
 - Threat agent factors
   - Skill level
@@ -32,6 +35,3 @@ Estimate the risk faced by your organization based on various factors.
 
 ### Overall Risk Score:
 ![3](https://github.com/Knign/RiSkore/assets/110326359/ea1539ba-1c54-4a98-b54a-32553d2cba70)
-
-## Live
-https://kunalwalavalkar.github.io/RiSkore/
