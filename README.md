@@ -5,22 +5,22 @@ Estimate the risk faced by your organization based on various factors.
 https://kunalwalavalkar.github.io/RiSkore/
 
 ## Factors taken into account
-- Threat agent factors
+- Threat agent factors:
   - Skill level
   - Motive
   - Opportunity
   - Size
-- Vulnerability factors
+- Vulnerability factors:
   - Ease of discovery
   - Ease of exploit
   - Awareness
   - Intrusion Detection
-- Technical impact factors
+- Technical impact factors:
   - Loss of confidentiality
   - Loss of integrity
   - Loss of availability
   - Loss of accountability
-- Business impact factors
+- Business impact factors:
   - Financial damage
   - Reputation damage
   - Non-compliance
