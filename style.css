@@ -37,7 +37,7 @@ body {
 	margin-left: 10%;
 	margin-right: 10%;
 	background: #0f0f0f;
-	font-family: "VCR", monospace;
+	font-family: vcr, monospace;
 	text-shadow: 0 0 0vw #fff;
 }
 
@@ -102,7 +102,6 @@ h1 {
 }
 
 .drop {
-	font-family: "Inconsolata", monospace;
 	border-color: #161616;
 	border-radius: 3px;
 	margin-left: 20px;
@@ -248,14 +247,9 @@ a {
 	color: #fff;
 }
 
-
 @font-face {
 	font-family: 'VCR';
-    src: url('VCR.eot'); /* IE9 Compat Modes */
-    src: url('VCR.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('VCR.woff') format('woff'), /* Modern Browsers */
-         url('VCR.ttf')  format('truetype'), /* Safari, Android, iOS */
-         url('VCR.svg#svgFontName') format('svg'); /* Legacy iOS */;
+	src: url('./assets/fonts/VCROSDMono.woff') format('woff');
 }
 
 /* @media only screen and (max-width: 1500px) {
